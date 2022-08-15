@@ -1,7 +1,7 @@
 
 # Laboratorium Multimedia dan Robotika Universitas Gundarma
 
-##"Line Vision Robot"
+## Robot Proyek : "Line Vision Robot"
 
 # Schematic
 ![Logo](https://github.com/muropraktikum/PTA-2022-2023/blob/main/Robot%20Proyek%20Line%20Vision%20Follower/schematic.png)
