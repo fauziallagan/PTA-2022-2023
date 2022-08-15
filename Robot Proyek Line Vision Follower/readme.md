@@ -1,14 +1,14 @@
 
 # Laboratorium Multimedia dan Robotika Universitas Gundarma
 
-"Line Vision Robot"
+##"Line Vision Robot"
 
 # Schematic
-![Logo](https://github.com/fauziallagan/rfid/blob/master/schematic.png)
+![Logo](https://github.com/muropraktikum/PTA-2022-2023/blob/main/Robot%20Proyek%20Line%20Vision%20Follower/schematic.png)
 
 ## Documentation
 
-#### Wemos D1 R1 Pinout
+#### ESP32 Cam Pinout
 
 | PIN | Type     | Description                |
 | :-------- | :------- | :------------------------- |
