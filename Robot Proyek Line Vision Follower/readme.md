@@ -43,21 +43,10 @@
 | `-`      | `-` | - |
 
 
-#### Example Vibration Sensor Code
+#### Example ESP32 CAM Code
 
 ```c++
-  void vibration()
-{
-  vibrationSensorState = digitalRead(vibrationSensorPin);
-  if (vibrationSensorState == 1)
-  { // Jika ada getaran di sensor = HIGH
-    Serial.println("Getaran Terdeteksi!");
-    digitalWrite(buzzPin, LOW);
-    delay(1000);
-    digitalWrite(buzzPin, HIGH);
-    delay(1000);
-  }
-}
+
 ```
 
 | Parameter | Description                |
