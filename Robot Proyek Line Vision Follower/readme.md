@@ -1,5 +1,5 @@
 
-# Laboratorium Multimedia dan Robotika Universitas Gundarma
+# Laboratorium Multimedia dan Robotika Universitas Gunadarma
 
 ## Robot Proyek : "Line Vision Robot"
 
